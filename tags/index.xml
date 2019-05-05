@@ -1,40 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Матюков Пётр: стихи и проза</title>
+    <title>Tags on Universal</title>
     <link>https://kuruhuru.github.io/tags/</link>
-    <description>Recent content in Tags on Матюков Пётр: стихи и проза</description>
+    <description>Recent content in Tags on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="https://kuruhuru.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Drink</title>
-      <link>https://kuruhuru.github.io/tags/drink/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
+      <title>Go</title>
+      <link>https://kuruhuru.github.io/tags/go/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://kuruhuru.github.io/tags/drink/</guid>
+      <guid>https://kuruhuru.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://kuruhuru.github.io/tags/golang/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://kuruhuru.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
       <link>https://kuruhuru.github.io/tags/hugo/</link>
-      <pubDate>Fri, 09 Nov 2018 07:26:15 +1300</pubDate>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
       <guid>https://kuruhuru.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Interesting</title>
-      <link>https://kuruhuru.github.io/tags/interesting/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
+      <title>Ipsum</title>
+      <link>https://kuruhuru.github.io/tags/ipsum/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://kuruhuru.github.io/tags/interesting/</guid>
+      <guid>https://kuruhuru.github.io/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://kuruhuru.github.io/tags/programming/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://kuruhuru.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://kuruhuru.github.io/tags/theme/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://kuruhuru.github.io/tags/theme/</guid>
       <description></description>
     </item>
     
