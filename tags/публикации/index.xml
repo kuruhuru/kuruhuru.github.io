@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Оставь сомненья on Стихи и Рассказы</title>
-    <link>https://kuruhuru.github.io/</link>
-    <description>Recent content in Оставь сомненья on Стихи и Рассказы</description>
+    <title>Публикации on Стихи и Рассказы</title>
+    <link>https://kuruhuru.github.io/tags/%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/</link>
+    <description>Recent content in Публикации on Стихи и Рассказы</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kuruhuru.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kuruhuru.github.io/tags/%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -145,18 +145,6 @@
 И кто-то смотрит ловит глазами жесты его руки
 И даже придерживает заранее зачем-то свои портки
 Чапаев медленно выговаривает странное слово засим</description>
-    </item>
-    
-    <item>
-      <title>Вот этого всего автор</title>
-      <link>https://kuruhuru.github.io/about/</link>
-      <pubDate>Mon, 08 Feb 1971 00:00:00 +0000</pubDate>
-      
-      <guid>https://kuruhuru.github.io/about/</guid>
-      <description>Матюков Пётр, родился в СССР.
-Тесно связан с двумя городами: Нижним Тагилом, Новосибирском и Бердском. С красным дипломом окончил НГУ. Немножко программист. Немножко мастер FIDE по шахматам.
-Стихи печатались в журналах Арион, Дружба Народов, Наш Современник, Огни Кузбасса, После 12-ти. Рассказы появляются тогда, когда для высказывания требуется проза, и не подходит поэзия.
- И дым отечества нам сладок и приятен. А начинается он в Нижнем Тагиле.    Новосибирск хорошеет с каждым днем.</description>
     </item>
     
   </channel>
